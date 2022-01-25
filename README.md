@@ -1,4 +1,4 @@
-# MIFARE-Sector-Key-Cracker ![Generic badge](https://img.shields.io/badge/Version-1.0-brightgreen.svg) ![Generic badge](https://img.shields.io/github/last-commit/Electroner/MIFARE-Sector-Key-Cracker)
+# MIFARE-Sector-Key-Cracker ![Generic badge](https://img.shields.io/badge/Version-1.0-brightgreen.svg) ![Generic badge](https://img.shields.io/github/last-commit/Electroner/MIFARE-Sector-Key-Cracker) ![](https://tokei.rs/b1/github/Electroner/MIFARE-Sector-Key-Cracker)
 Small Arduino Program to crack by brute force a sector key of a MIRAFE/RFID tag.
 
 There are 3 version of the program.
