@@ -12,6 +12,6 @@ This version follows the same setup as the previous one but does not need a comp
 ## Cracker only Serial
 This version is only connecting the part of the NFC reader without SD. So it has to be connected and with the serial set on a PC necessarily. 
 
-## Recursos Usados
+## Used Resources
 
--   [Codigo de Ejemplo y conexiones](https://programarfacil.com/blog/arduino-blog/lector-rfid-rc522-con-arduino/)
+-   [Example Code and connections](https://programarfacil.com/blog/arduino-blog/lector-rfid-rc522-con-arduino/)
