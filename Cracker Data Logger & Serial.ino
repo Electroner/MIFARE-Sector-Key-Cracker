@@ -238,7 +238,9 @@ void updateKeyA()
 {
 	if (keyA1 == 255)
 	{
-		EscribirArchSer("\nERROR_MAX_OVERFLOW_A");
+		if (keyA2 == 255 && keyA3 == 255 && keyA4 == 255 && keyA5 == 255 && keyA6 == 255){
+			EscribirArchSer("\nERROR_MAX_OVERFLOW_A");
+		}
 	}
 	if (keyA2 == 255)
 	{
@@ -272,9 +274,11 @@ void updateKeyA()
 
 void updateKeyB()
 {
-	if (keyA1 == 255)
+	if (keyB1 == 255)
 	{
-		EscribirArchSer("\nERROR_MAX_OVERFLOW_B");
+		if (keyB2 == 255 && keyB3 == 255 && keyB4 == 255 && keyB5 == 255 && keyB6 == 255){
+			EscribirArchSer("\nERROR_MAX_OVERFLOW_B");
+		}
 	}
 	if (keyB2 == 255)
 	{
